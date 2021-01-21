@@ -1,5 +1,9 @@
 # Global wheat detection
 
+[![License](https://github.com/Solvve/ml_wheat_object_detection/blob/master/LICENSE.TXT)
+[![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-378/)
+[![Solvve](https://img.shields.io/badge/made%20in-solvve-blue)](https://solvve.com/)
+
 ## Description
 
 Example of the object detection using YOLO v5 algorithm.
